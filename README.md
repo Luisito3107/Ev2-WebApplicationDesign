@@ -58,7 +58,7 @@ Contributions are welcome. Please open an issue first to discuss what you would 
 
 ## Working demo video
 
-Available at the root of this repository.
+Available at the root of this repository, [click here](Working%20Demo%20Video.mp4).
 
 ## Acknowledgments
 
