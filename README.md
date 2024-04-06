@@ -22,7 +22,7 @@ A basic library management system developed using Laravel, as Evidence #2 for th
     `git clone https://yourrepositoryurl.git`
 
 2. Navigate to the project directory:\
-    `cd library-management-system`
+    `cd Ev2-WebApplicationDesign`
 
 3. Install dependencies using Composer:\
 	`composer install`
@@ -54,6 +54,11 @@ Manual testing can be conducted by navigating through the application's routes a
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change or improve.
+
+
+## Working demo video
+
+Available at the root of this repository.
 
 ## Acknowledgments
 
