@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 3rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.button-outline.button-red {
+    background-color: transparent;
+    border-color: #e05c4a;
+    color: #e05c4a;
+}
+
+.button-outline.button-red:hover, .button-outline.button-red:focus {
+    background-color: #e05c4a;
+    border-color: #e05c4a;
+    color: #fff;
+}
